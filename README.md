@@ -5,7 +5,8 @@
 My motivation was to create a portfolio that I can keep up to date to constantly show my best work in the field of technology. 
 ## Screenshots
 
-![portfolio](https://user-images.githubusercontent.com/50425416/208819200-f2312840-80de-4054-ba82-2c4e2ad1fc16.png)
+![0073BA75-D1B2-4026-B31E-9370179BBA08](https://github.com/user-attachments/assets/82a11421-5a2a-44a4-95c0-e704338c5c89)
+
 
 
 ## Framework used
