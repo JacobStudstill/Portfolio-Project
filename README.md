@@ -2,8 +2,7 @@
 
 ## Motivation
 
-My motivation was to create a portfolio that I can add to as I am working through the bootcamp. I added the work I have done so far and will continue to add
-work as I continue so come the end of bootcamp I will have a fully functional portfolio with all of my work.
+My motivation was to create a portfolio that I can keep up to date to constantly show my best work in the field of technology. 
 ## Screenshots
 
 ![portfolio](https://user-images.githubusercontent.com/50425416/208819200-f2312840-80de-4054-ba82-2c4e2ad1fc16.png)
